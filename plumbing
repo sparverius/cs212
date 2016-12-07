@@ -1,0 +1,11 @@
+either
+  fork
+  exec
+or
+  pipe
+  fork
+  close/dup
+  exec
+  fork
+  close/dup
+  exec

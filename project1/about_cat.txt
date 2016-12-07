@@ -1,0 +1,30 @@
+Richard Kent
+9/19/16
+
+cat manpage 
+concatenates files and prints on the standard output
+
+-n, --number; Numbers all the output lines
+
+-s --squeeze-blank; supress repeated empty output lines
+
+cat (filename)
+prints contents of a file to console
+
+cat (filename) >
+writes over filename contents with contents from stdin
+
+cat (one) > (two)
+writes to (and replaces) contents from file one to file two
+
+cat (one) >> (two)
+appends contents of filename one into filename two
+
+cat about_cat.txt
+printed contents of about_cat.txt to console
+
+cat fortunes.txt
+printed newline to console
+
+cat about_cat.txt fortunes.txt
+printed contents of about_cat.txt and fortunes.txt to console

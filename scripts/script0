@@ -1,0 +1,11 @@
+#script0
+
+echo The C source code files are here:  #echo is the output command
+ls
+echo The current date and time are:
+date
+echo This message is being sent to you by
+whoami
+echo From the directory at the end of this path
+pwd
+

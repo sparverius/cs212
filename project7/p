@@ -1,0 +1,8 @@
+printpathto() {
+  if (i('.') == (".."))
+    print /
+  else
+    chdir("..")
+    printpathto()
+    print cur_name
+}

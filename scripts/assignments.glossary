@@ -1,0 +1,4 @@
+msh     The shell interpreter
+mcd     changes directories
+mpwd    displays the path to the working directory
+mwho    displays what users are logged in

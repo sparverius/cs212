@@ -1,0 +1,238 @@
+zen      tty2         2016-11-06 19:31 (:1)
+zen      pts/0        2016-11-06 23:11 (:1)
+zen      pts/1        2016-11-07 00:54 (tmux(23190).%3)
+zen      pts/2        2016-11-06 23:11 (tmux(23190).%2)
+/dev/pts/1
+GDB
+msh10.c
+msh7
+msh7.c
+msh8
+msh8.c
+msh9
+msh9.c
+one
+sig_alarm
+sig_alarm.c
+sigdemo1
+sigdemo1.c
+sigdemo2
+sigdemo2.c
+sigdemo3
+sigdemo3.c
+.
+..
+GDB
+msh10.c
+msh7
+msh7.c
+msh8
+msh8.c
+msh9
+msh9.c
+one
+sig_alarm
+sig_alarm.c
+sigdemo1
+sigdemo1.c
+sigdemo2
+sigdemo2.c
+sigdemo3
+sigdemo3.c
+total 124
+-rw-rw-r-- 1 zen zen   27 Nov  4 10:35 GDB
+-rw-rw-r-- 1 zen zen 1369 Nov  7 01:08 msh10.c
+-rwxrwxr-x 1 zen zen 9048 Nov  6 23:20 msh7
+-rw-rw-r-- 1 zen zen 1061 Nov  6 23:20 msh7.c
+-rwxrwxr-x 1 zen zen 9096 Nov  7 01:05 msh8
+-rw-rw-r-- 1 zen zen 1239 Nov  7 01:01 msh8.c
+-rwxrwxr-x 1 zen zen 9200 Nov  7 01:05 msh9
+-rw-rw-r-- 1 zen zen 1336 Nov  7 01:07 msh9.c
+-rw-rw-r-- 1 zen zen  134 Nov  7 01:09 one
+-rwxrwxr-x 1 zen zen 8800 Nov  4 10:28 sig_alarm
+-rw-rw-r-- 1 zen zen  516 Nov  4 10:29 sig_alarm.c
+-rwxrwxr-x 1 zen zen 8752 Nov  4 10:31 sigdemo1
+-rw-rw-r-- 1 zen zen  677 Nov  4 10:31 sigdemo1.c
+-rwxrwxr-x 1 zen zen 8720 Nov  4 10:35 sigdemo2
+-rw-rw-r-- 1 zen zen  303 Nov  4 09:39 sigdemo2.c
+-rwxrwxr-x 1 zen zen 8992 Nov  4 10:41 sigdemo3
+-rw-rw-r-- 1 zen zen  835 Nov  4 10:41 sigdemo3.c
+total 132
+ 4 drwxrwxr-x 2 zen zen 4096 Nov  7 01:09 ./
+ 4 drwxrwxr-x 5 zen zen 4096 Nov  4 09:31 ../
+ 4 -rw-rw-r-- 1 zen zen   27 Nov  4 10:35 GDB
+ 4 -rw-rw-r-- 1 zen zen 1369 Nov  7 01:08 msh10.c
+12 -rwxrwxr-x 1 zen zen 9048 Nov  6 23:20 msh7
+ 4 -rw-rw-r-- 1 zen zen 1061 Nov  6 23:20 msh7.c
+12 -rwxrwxr-x 1 zen zen 9096 Nov  7 01:05 msh8
+ 4 -rw-rw-r-- 1 zen zen 1239 Nov  7 01:01 msh8.c
+12 -rwxrwxr-x 1 zen zen 9200 Nov  7 01:05 msh9
+ 4 -rw-rw-r-- 1 zen zen 1336 Nov  7 01:07 msh9.c
+ 4 -rw-rw-r-- 1 zen zen  134 Nov  7 01:09 one
+12 -rwxrwxr-x 1 zen zen 8800 Nov  4 10:28 sig_alarm
+ 4 -rw-rw-r-- 1 zen zen  516 Nov  4 10:29 sig_alarm.c
+12 -rwxrwxr-x 1 zen zen 8752 Nov  4 10:31 sigdemo1
+ 4 -rw-rw-r-- 1 zen zen  677 Nov  4 10:31 sigdemo1.c
+12 -rwxrwxr-x 1 zen zen 8720 Nov  4 10:35 sigdemo2
+ 4 -rw-rw-r-- 1 zen zen  303 Nov  4 09:39 sigdemo2.c
+12 -rwxrwxr-x 1 zen zen 8992 Nov  4 10:41 sigdemo3
+ 4 -rw-rw-r-- 1 zen zen  835 Nov  4 10:41 sigdemo3.c
+GDB
+msh10.c
+msh7
+msh7.c
+msh8
+msh8.c
+msh9
+msh9.c
+one
+sig_alarm
+sig_alarm.c
+sigdemo1
+sigdemo1.c
+sigdemo2
+sigdemo2.c
+sigdemo3
+sigdemo3.c
+zen      tty2         2016-11-06 19:31 (:1)
+zen      pts/0        2016-11-06 23:11 (:1)
+zen      pts/1        2016-11-07 00:54 (tmux(23190).%3)
+zen      pts/2        2016-11-06 23:11 (tmux(23190).%2)
+zen      tty2         2016-11-06 19:31 (:1)
+zen      pts/0        2016-11-06 23:11 (:1)
+zen      pts/1        2016-11-07 00:54 (tmux(23190).%3)
+zen      pts/2        2016-11-06 23:11 (tmux(23190).%2)
+zen      tty2         2016-11-06 19:31 (:1)
+zen      pts/0        2016-11-06 23:11 (:1)
+zen      pts/1        2016-11-07 00:54 (tmux(23190).%3)
+zen      pts/2        2016-11-06 23:11 (tmux(23190).%2)
+Q:	How much does it cost to ride the Unibus?
+A:	2 bits.
+"... all the modern inconveniences ..."
+		-- Mark Twain
+zen      pts/1        2016-11-07 00:54 (tmux(23190).%3)
+zen      pts/1        2016-11-07 00:54 (tmux(23190).%3)
+total 124
+-rw-rw-r-- 1 zen zen   27 Nov  4 10:35 GDB
+-rw-rw-r-- 1 zen zen 1369 Nov  7 01:08 msh10.c
+-rwxrwxr-x 1 zen zen 9048 Nov  6 23:20 msh7
+-rw-rw-r-- 1 zen zen 1061 Nov  6 23:20 msh7.c
+-rwxrwxr-x 1 zen zen 9096 Nov  7 01:05 msh8
+-rw-rw-r-- 1 zen zen 1239 Nov  7 01:01 msh8.c
+-rwxrwxr-x 1 zen zen 9200 Nov  7 01:05 msh9
+-rw-rw-r-- 1 zen zen 1336 Nov  7 01:07 msh9.c
+-rw-rw-r-- 1 zen zen  134 Nov  7 01:09 one
+-rwxrwxr-x 1 zen zen 8800 Nov  4 10:28 sig_alarm
+-rw-rw-r-- 1 zen zen  516 Nov  4 10:29 sig_alarm.c
+-rwxrwxr-x 1 zen zen 8752 Nov  4 10:31 sigdemo1
+-rw-rw-r-- 1 zen zen  677 Nov  4 10:31 sigdemo1.c
+-rwxrwxr-x 1 zen zen 8720 Nov  4 10:35 sigdemo2
+-rw-rw-r-- 1 zen zen  303 Nov  4 09:39 sigdemo2.c
+-rwxrwxr-x 1 zen zen 8992 Nov  4 10:41 sigdemo3
+-rw-rw-r-- 1 zen zen  835 Nov  4 10:41 sigdemo3.c
+fork0
+fork0B
+fork0B.c
+fork0.c
+fork1
+fork1.c
+fork2
+fork2.c
+fork3
+fork3.c
+run0
+run0.c
+run1
+run1.c
+shell
+shell3
+signals
+waiting0
+waiting0.c
+waiting1
+waiting1.c
+0extra
+1970
+cprimer
+halloween
+project0
+project1
+project2
+project3
+project4
+project5
+project6
+project7
+project8
+projectS
+GDB
+msh10.c
+msh7
+msh7.c
+msh8
+msh8.c
+msh9
+msh9.c
+one
+sig_alarm
+sig_alarm.c
+sigdemo1
+sigdemo1.c
+sigdemo2
+sigdemo2.c
+sigdemo3
+sigdemo3.c
+.
+..
+GDB
+msh10.c
+msh7
+msh7.c
+msh8
+msh8.c
+msh9
+msh9.c
+one
+sig_alarm
+sig_alarm.c
+sigdemo1
+sigdemo1.c
+sigdemo2
+sigdemo2.c
+sigdemo3
+sigdemo3.c
+fork0
+fork0B
+fork0B.c
+fork0.c
+fork1
+fork1.c
+fork2
+fork2.c
+fork3
+fork3.c
+run0
+run0.c
+run1
+run1.c
+shell
+shell3
+signals
+waiting0
+waiting0.c
+waiting1
+waiting1.c
+0extra
+1970
+cprimer
+halloween
+project0
+project1
+project2
+project3
+project4
+project5
+project6
+project7
+project8
+projectS

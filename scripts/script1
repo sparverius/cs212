@@ -1,0 +1,17 @@
+#!/bin/bash
+# script2
+# a script with variables, input, and control flow
+
+TASKS=$HOME/scripts/assignments.glossary
+echo Which m command?
+read NAME
+if grep $NAME $TASKS > /tmp/assign.tmp
+then
+      echo Enteries for $NAME
+      echo
+      cat /tmp/assign.tmp
+      echo
+else
+      echo No entries for $NAME
+fi
+rm /tmp/assign.tmp

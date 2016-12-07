@@ -1,0 +1,34 @@
+/*  client.c 
+ *  client for next letter server: unix domain
+ */
+
+#include <sys/socket.h>
+#include <sys/types.h>
+#include <sys/un.h>
+#include <stdio.h>
+
+int main(void) {
+
+    char letter = 'A';
+    int socket_fd;
+    
+    struct sockaddr_un address;
+    address.sun_family = AF_UNIX;
+    strcpy(address.sun_path,"just_letters");
+    
+    int len = sizeof(address);
+    
+    while(1) {
+      socket_fd = socket(AF_UNIX, SOCK_STREAM,0);
+      connect(socket_fd,(struct sockaddr*)&address, len); 
+      
+      printf("letter to send: "); fflush(stdout);
+      read(0,&letter,1);
+      write(socket_fd,&letter,1);
+      read(socket_fd,&letter,1);
+      printf("server replies with: %c\n", letter); fflush(stdout);
+      read(0,&letter,1);   // eat newline
+      close(socket_fd);
+    }
+    return 0;   
+}
