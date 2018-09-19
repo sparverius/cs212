@@ -1,1 +1,2 @@
-# cs212 projectsFL
+# cs212 projects
+C programming course
